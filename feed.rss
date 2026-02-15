@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>개포동 퀵서비스 24시 에이플러스</title>
+  <link>https://gaepo.8222quick.com/</link>
+  <description>강남구 개포동 전지역 신속한 배송 원칙, 24시간 실시간 배차 시스템</description>
+  <language>ko-KR</language>
+  <lastBuildDate>Sat, 14 Feb 2026 19:15:00 +0900</lastBuildDate>
+
+  <item>
+    <title>개포동 퀵서비스 24시 신속한 배송 안내</title>
+    <link>https://gaepo.8222quick.com/index.html</link>
+    <description>개포 대단지 아파트 및 구룡역, 개포동역 인근 어디서나 접수 즉시 신속한 배송을 약속합니다.</description>
+    <pubDate>Sat, 14 Feb 2026 19:15:00 +0900</pubDate>
+    <guid>https://gaepo.8222quick.com/index.html</guid>
+  </item>
+
+  <item>
+    <title>📊 개포동 퀵서비스 실시간 요금조회</title>
+    <link>https://gaepo.8222quick.com/money.html</link>
+    <description>개포동에서 서울/경기 전지역으로 가는 차종별 합리적인 요금을 확인하세요.</description>
+    <pubDate>Sat, 14 Feb 2026 19:15:00 +0900</pubDate>
+    <guid>https://gaepo.8222quick.com/money.html</guid>
+  </item>
+
+  <item>
+    <title>🚚 개포동 오토바이/다마스/라보 맞춤 배차</title>
+    <link>https://gaepo.8222quick.com/index.html#service</link>
+    <description>서류부터 소형 이사 화물까지 상황에 맞는 차량으로 신속한 배송 서비스를 제공합니다.</description>
+    <pubDate>Sat, 14 Feb 2026 19:15:00 +0900</pubDate>
+    <guid>https://gaepo.8222quick.com/index.html#service</guid>
+  </item>
+</channel>
+</rss>

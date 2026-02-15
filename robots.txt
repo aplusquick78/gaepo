@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gaepo.8222quick.com/sitemap.xml
+
+
+
